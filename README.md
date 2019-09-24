@@ -1,2 +1,2 @@
 # r-gapminder
-workshop project using gapminder data
+Workshop project using gapminder data
